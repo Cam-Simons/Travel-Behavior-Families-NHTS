@@ -9,12 +9,13 @@ Mineta Transportation Institute
 San José State University, San José, CA 95192-0219
 Email: cameron.simons@sjsu.edu
 
-**Hilary Nixon, Ph.D.**
+**Hilary Nixon, Ph.D.***
 Mineta Transportation Institute
 San José State University, San José, CA 95192-0219
 ORCID: [0000-0001-5378-3473](https://orcid.org/0000-0001-5378-3473)  
 Email: hilary.nixon@sjsu.edu
 
+*Corresponding Author
 
 ## Overview
 
