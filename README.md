@@ -1,7 +1,7 @@
 # Travel-Behavior-Families-NHTS
 This repository contains the Python code used for the data cleaning, processing, statistical analysis, and visualization presented in: 
 
-Travel Behavior Across Household Life-Cycle Cohorts in the United States, 2001–2022
+How Household Life-Cycle Stage Shapes Non-Home Travel in the United States, 2001–2022
 
 ## Authors
 **Cameron Simons, M.S.**
