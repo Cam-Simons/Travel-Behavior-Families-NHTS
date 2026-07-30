@@ -54,7 +54,7 @@ The raw NHTS data are **not included in this repository**. Users should obtain t
 ├── code/
 │   ├── NHTS_Life_Cycle_Groups_Core_Metrics.py
 │   ├── Trip_Analysis_Time_Series_with_Significance.py
-├── output/
+├── outputs/
 │   ├── figures/
 │   └── tables/
 └── requirements.txt
