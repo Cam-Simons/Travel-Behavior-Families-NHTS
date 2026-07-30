@@ -7,6 +7,7 @@ How Household Life-Cycle Stage Shapes Non-Home Travel in the United States, 2001
 **Cameron Simons, M.S.**
 Mineta Transportation Institute
 San José State University, San José, CA 95192-0219
+ORCID: [0009-0001-2453-4432](https://orcid.org/0009-0001-2453-4432)
 Email: cameron.simons@sjsu.edu
 
 **Hilary Nixon, Ph.D.***
